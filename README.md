@@ -26,4 +26,4 @@ I'm Bea Ventura, a web developer and designer based in Cebu, Philippines.
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=beaventura&icon=6&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=beaventura&icon=6&color=1)
